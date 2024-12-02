@@ -1,6 +1,6 @@
 # Electron Course
 
-This is the example code from the following freeCodeCamp course: <ToBeDefined></ToBeDefined>
+
 
 It tackles setting up an electron app that displays system resource usages for your CPU, RAM and File-System
 - using react and typescript
